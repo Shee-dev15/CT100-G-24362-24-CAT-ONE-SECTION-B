@@ -71,7 +71,7 @@ public class Showroom {
         // Clear the leftover "Enter" key from nextInt()
         input.nextLine(); 
 
-        System.out.print("Enter fuel type (e.g., Petrol, Diesel, Electric): ");
+        System.out.print("Enter fuel type");
         String fuelType = input.nextLine();
 
         // Instantiate the Car object using the user-provided data
