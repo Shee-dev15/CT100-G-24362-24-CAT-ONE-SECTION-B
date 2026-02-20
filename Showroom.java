@@ -2,6 +2,7 @@
  * Registration number: CT100/G/24362/24
  * NAME: KARUBIU MILELE WANJIRU
  * Program: Showroom.java
+ *Question:1
  * Purpose: Demonstrates inheritance by using a Vehicle base class and a Car subclass.
  */
 
